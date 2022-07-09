@@ -1,6 +1,6 @@
-# Awesome Web Apps
+# Awesome softwares
 
-A list of Web Apps both FLOSS and SaaS for business
+A list of softwares including FLOSS, proprietary and SaaS mainly for business
 
 ## list
 
@@ -18,6 +18,7 @@ A list of Web Apps both FLOSS and SaaS for business
 - [chromatic](https://www.chromatic.com/)
 - [studio](https://studio.design/)
 - [MS Clarity](https://clarity.microsoft.com/)
+- [fingerprintjs](https://fingerprint.com/)
 
 ## other list
 
