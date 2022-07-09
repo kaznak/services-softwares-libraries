@@ -2,7 +2,7 @@
 
 A list of softwares and libraries including FLOSS, proprietary and SaaS
 
-## list
+## misc
 
 - [google workspace](https://workspace.google.com/)
 - [github](https://github.com/)
@@ -15,13 +15,21 @@ A list of softwares and libraries including FLOSS, proprietary and SaaS
 - [redash](https://redash.io/)
 - [typeform](https://www.typeform.com/)
 - [calendly](https://calendly.com/)
-- [chromatic](https://www.chromatic.com/)
 - [studio](https://studio.design/)
+
+## marketing
+
 - [MS Clarity](https://clarity.microsoft.com/)
+
+## dev parts and tools
+
+- [chromatic](https://www.chromatic.com/)
 - [fingerprintjs](https://fingerprint.com/)
 - [remix](https://remix.run/)
+- [nextjs](https://nextjs.org/)
+- [netlify](https://www.netlify.com/)
 - [tsdx](https://tsdx.io/)
 
-## other list
+## list
 
 - [GetStream/awesome-saas-services](https://github.com/GetStream/awesome-saas-services)
