@@ -23,12 +23,14 @@ A list of softwares and libraries including FLOSS, proprietary and SaaS
 
 ## dev parts and tools
 
+- [tsdx](https://tsdx.io/)
+- [storybook](https://storybook.js.org/)
 - [chromatic](https://www.chromatic.com/)
 - [fingerprintjs](https://fingerprint.com/)
 - [remix](https://remix.run/)
 - [nextjs](https://nextjs.org/)
+- [vercel](https://vercel.com/)
 - [netlify](https://www.netlify.com/)
-- [tsdx](https://tsdx.io/)
 
 ## list
 
