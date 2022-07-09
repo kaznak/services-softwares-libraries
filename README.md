@@ -1,6 +1,6 @@
-# Awesome softwares
+# softwares
 
-A list of softwares including FLOSS, proprietary and SaaS mainly for business
+A list of softwares and libraries including FLOSS, proprietary and SaaS
 
 ## list
 
@@ -19,6 +19,8 @@ A list of softwares including FLOSS, proprietary and SaaS mainly for business
 - [studio](https://studio.design/)
 - [MS Clarity](https://clarity.microsoft.com/)
 - [fingerprintjs](https://fingerprint.com/)
+- [remix](https://remix.run/)
+- [tsdx](https://tsdx.io/)
 
 ## other list
 
