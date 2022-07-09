@@ -32,6 +32,10 @@ A list of softwares and libraries including FLOSS, proprietary and SaaS
 - [vercel](https://vercel.com/)
 - [netlify](https://www.netlify.com/)
 
+## components and libraries
+
+-[React-toastify](https://fkhadra.github.io/react-toastify/introduction)
+
 ## list
 
 - [GetStream/awesome-saas-services](https://github.com/GetStream/awesome-saas-services)
