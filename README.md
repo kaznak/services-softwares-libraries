@@ -14,3 +14,4 @@ A list of Web Apps both FLOSS and SaaS for business
 - [typeform](https://www.typeform.com/)
 - [calendly](https://calendly.com/)
 - [chromatic](https://www.chromatic.com/)
+- [studio](https://studio.design/)
