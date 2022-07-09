@@ -15,3 +15,4 @@ A list of Web Apps both FLOSS and SaaS for business
 - [calendly](https://calendly.com/)
 - [chromatic](https://www.chromatic.com/)
 - [studio](https://studio.design/)
+- [MS Clarity](https://clarity.microsoft.com/)
