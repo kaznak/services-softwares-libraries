@@ -2,6 +2,8 @@
 
 A list of Web Apps both FLOSS and SaaS for business
 
+## list
+
 - [google workspace](https://workspace.google.com/)
 - [github](https://github.com/)
 - [slack](https://slack.com/)
@@ -16,3 +18,7 @@ A list of Web Apps both FLOSS and SaaS for business
 - [chromatic](https://www.chromatic.com/)
 - [studio](https://studio.design/)
 - [MS Clarity](https://clarity.microsoft.com/)
+
+## other list
+
+- [GetStream/awesome-saas-services](https://github.com/GetStream/awesome-saas-services)
