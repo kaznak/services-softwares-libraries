@@ -1,4 +1,4 @@
-# awesome-saas
+# Awesome Web Apps
 
 A curated list of SaaS services mainly for business.
 
