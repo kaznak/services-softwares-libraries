@@ -34,7 +34,7 @@ A list of softwares and libraries including FLOSS, proprietary and SaaS
 
 ## components and libraries
 
--[React-toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [React-toastify](https://fkhadra.github.io/react-toastify/introduction)
 
 ## list
 
