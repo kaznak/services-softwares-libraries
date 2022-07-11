@@ -1,6 +1,6 @@
 # softwares
 
-A list of softwares and libraries including FLOSS, proprietary and SaaS
+A list of services, softwares and libraries including FLOSS, proprietary and SaaS
 
 ## misc
 
