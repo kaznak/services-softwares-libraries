@@ -16,6 +16,7 @@ A list of services, softwares and libraries including FLOSS, proprietary and Saa
 - [typeform](https://www.typeform.com/)
 - [calendly](https://calendly.com/)
 - [studio](https://studio.design/)
+- [gamma](https://gamma.app/)
 
 ## marketing
 
