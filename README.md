@@ -17,6 +17,7 @@ A list of services, softwares and libraries including FLOSS, proprietary and Saa
 - [calendly](https://calendly.com/)
 - [studio](https://studio.design/)
 - [gamma](https://gamma.app/)
+- [Matrix](https://matrix.org/)
 
 ## marketing
 
